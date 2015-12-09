@@ -9,3 +9,4 @@
 * [xufei 民工精髓](https://github.com/xufei/blog/issues)
 * [risingstack](https://blog.risingstack.com/)
 * [w3ctech](http://www.w3ctech.com/)
+* [react-china](http://react-china.org/)
