@@ -10,3 +10,4 @@
 * [risingstack](https://blog.risingstack.com/)
 * [w3ctech](http://www.w3ctech.com/)
 * [react-china](http://react-china.org/)
+* [es6学习](http://bubkoo.com/2015/06/15/es6-in-depth-iterators-and-the-for-of-loop/)
