@@ -5,7 +5,7 @@
 * [美团技术团队博客](http://tech.meituan.com/)
 * [阿里无线前端](https://github.com/amfe/article/issues)
 * [天猫前端](https://github.com/tmallfe/tmallfe.github.io/issues)
-* [lifesinger](https://github.com/lifesinger/lifesinger.github.io/issues)
+* [玉伯的blog](https://github.com/lifesinger/lifesinger.github.io/issues)
 * [xufei 民工精髓](https://github.com/xufei/blog/issues)
 * [risingstack](https://blog.risingstack.com/)
 * [w3ctech](http://www.w3ctech.com/)
