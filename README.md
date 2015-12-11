@@ -29,3 +29,13 @@
 * [回田园](http://blog.leapoahead.com/)
 * [寸志](http://island205.com/)
 * [云风的blog](http://blog.codingnow.com/)
+
+# gotokeep技术栈
+* nodejs/restify
+* express + koa
+* 存储用 mongodb + redis + elasticsearch
+* 消息队列用 RabbitMQ
+* 团队协作用 Phabricator + bearychat
+* 监控用 zabbix、kibana、sentry、statsd + grafana
+* 其他 etcd（配置）、docker（测试环境）、Angular（内部 cms）
+* 完全 Node.js，部分脚本用 python、Go
