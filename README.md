@@ -31,6 +31,7 @@
 * [云风的blog](http://blog.codingnow.com/)
 * [三清水](http://js8.in/)
 * [三清水的分享](http://js8.in/slide/)
+* [大搜车前端团队博客](http://f2e.souche.com/blog/)
 
 # gotokeep技术栈
 * nodejs/restify
