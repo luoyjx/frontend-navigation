@@ -33,7 +33,7 @@
 * [三清水的分享](http://js8.in/slide/)
 * [大搜车前端团队博客](http://f2e.souche.com/blog/)
 * [19楼UED](http://blog.19ued.com/)
-* 
+
 ## 腾讯
 * [MacQQ的项目团队 IBlog ](http://iblog.tencent.com/)
 * [财付通设计中心 UID](http://tid.tenpay.com/)
