@@ -29,6 +29,8 @@
 * [回田园](http://blog.leapoahead.com/)
 * [寸志](http://island205.com/)
 * [云风的blog](http://blog.codingnow.com/)
+* [三清水](http://js8.in/)
+* [三清水的分享](http://js8.in/slide/)
 
 # gotokeep技术栈
 * nodejs/restify
