@@ -87,3 +87,6 @@
 
 ## 迅雷
 * [迅雷用户体验设计中心CUED](http://cued.xunlei.com/)
+
+## angular资源
+* [AngularJS在线教程](http://each.sinaapp.com/angular/index.html)
