@@ -2,7 +2,7 @@
 技术资讯信息导航，我想记录一些技术的地址方便自己没事的时候逛
 
 # 列表
-* [美团技术团队博客](http://tech.meituan.com/)
+* [美团技术团队博客](http://tech.meituan.com/){:target="_blank"}
 * [阿里无线前端](https://github.com/amfe/article/issues)
 * [天猫前端](https://github.com/tmallfe/tmallfe.github.io/issues)
 * [玉伯的blog](https://github.com/lifesinger/lifesinger.github.io/issues)
