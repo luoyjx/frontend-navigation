@@ -35,6 +35,11 @@
 * [19楼UED](http://blog.19ued.com/)
 * [Kuitos's Blog](https://github.com/kuitos/kuitos.github.io)
 * [i5ting的react入门](http://i5ting.github.io/reactjs-getting-start/)
+* [div.io](http://div.io)
+* [w3cplus](http://www.w3cplus.com/)
+* [w3 help](http://www.w3help.org/zh-cn/kb/)
+* [稀土掘金](http://gold.xitu.io/#/)
+* [前端早读课](http://www.zaoduke.net/)
 
 ## 腾讯
 * [MacQQ的项目团队 IBlog ](http://iblog.tencent.com/)
