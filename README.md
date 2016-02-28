@@ -40,6 +40,7 @@
 * [w3 help](http://www.w3help.org/zh-cn/kb/)
 * [稀土掘金](http://gold.xitu.io/#/)
 * [前端早读课](http://www.zaoduke.net/)
+* [极限前端](http://ouvens.github.io/)
 
 ## 腾讯
 * [MacQQ的项目团队 IBlog ](http://iblog.tencent.com/)
