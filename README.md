@@ -98,3 +98,8 @@
 
 ## angular资源
 * [AngularJS在线教程](http://each.sinaapp.com/angular/index.html)
+
+## 微信html5开发框架
+* [vux](https://github.com/airyland/vux)
+* [ratchet](https://github.com/twbs/ratchet/)
+* [SUI](https://github.com/sdc-alibaba/SUI-Mobile)
