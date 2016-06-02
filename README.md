@@ -42,6 +42,7 @@
 * [前端早读课](http://www.zaoduke.net/)
 * [极限前端](http://ouvens.github.io/)
 * [riskers blog](https://github.com/riskers/blog)
+* [前端资源库](https://www.awesomes.cn/)
 
 ## 腾讯
 * [MacQQ的项目团队 IBlog ](http://iblog.tencent.com/)
