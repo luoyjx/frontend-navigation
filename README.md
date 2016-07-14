@@ -45,6 +45,7 @@
 * [前端资源库](https://www.awesomes.cn/)
 * [thefullstack](http://thefullstack.xyz/)
 * [Startup News](http://news.dbanotes.net/news)
+* [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide)
 
 ## 腾讯
 * [MacQQ的项目团队 IBlog ](http://iblog.tencent.com/)
