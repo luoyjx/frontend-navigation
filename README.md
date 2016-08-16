@@ -47,6 +47,7 @@
 * [Startup News](http://news.dbanotes.net/news)
 * [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide)
 * [前端外刊评论](http://qianduan.guru/)
+* [crzidea(美团的童鞋)](https://crzidea.com/)
 
 ## 腾讯
 * [MacQQ的项目团队 IBlog ](http://iblog.tencent.com/)
