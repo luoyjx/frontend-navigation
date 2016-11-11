@@ -281,7 +281,6 @@
 - [react.js TouchstoneJS UI](http://touchstonejs.io/)
 - [react.js amazeui UI](http://amazeui.org/react/)
 - [React 入门实例教程 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
-- [React Native 中文版](http://wiki.jikexueyuan.com/project/react-native/)
 - [Webpack 和 React 小书 - 前端乱炖](http://www.html-js.com/article/Fakefish%203053)
 - [Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook/)
 - [webpack](https://github.com/webpack/webpack)
@@ -289,6 +288,19 @@
 - [webpack入门教程](http://html-js.com/article/3113)
 - [基于webpack搭建前端工程解决方案探索](http://segmentfault.com/a/1190000003499526)
 - [React原创实战视频教程](http://www.piliyu.com/)
+
+## React Native
+- [React Native 中文版](http://wiki.jikexueyuan.com/project/react-native/)
+- [ReactNative打离线包-android篇](https://segmentfault.com/a/1190000004192816)
+- [ReactNative打离线包-ios篇](http://www.07net01.com/2015/12/1036556.html)
+- [加载、维护 bundle 的正确姿势](http://www.jianshu.com/p/85531b2e61e9)
+- [React-Native学习指南](https://github.com/reactnativecn/react-native-guide)
+- [30 Days of React Native](https://github.com/fangwei716/30-days-of-react-native)
+- [React Native通讯原理](http://www.open-open.com/lib/view/open1476153179192.html)
+- [React Native通信机制详解](http://blog.cnbang.net/tech/2698/?from=groupmessage&isappinstalled=1)
+- [React Native Bundle拆分](https://www.sdk.cn/news/3617)
+- [React Native 研究与实践](https://github.com/crazycodeboy/RNStudyNotes/)
+- [React Native热更新部署/热更新-CodePush最新集成总结](http://www.jianshu.com/p/9e3b4a133bcc)
 
 ## 移动端API
 
