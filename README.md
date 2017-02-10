@@ -49,6 +49,7 @@
 * [前端外刊评论](http://qianduan.guru/)
 * [crzidea(美团的童鞋)](https://crzidea.com/)
 * [醬爆的不穩定因素](http://jason-wang.logdown.com/)
+* [黄玄的博客](https://huangxuan.me/)
 
 ## 腾讯
 * [MacQQ的项目团队 IBlog ](http://iblog.tencent.com/)
